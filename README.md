@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Eu sou o Jailton, sou programador Front-End, atualmente estou aprendendo e criando projetos com:
 
