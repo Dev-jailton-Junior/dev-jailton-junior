@@ -1,4 +1,7 @@
-### Olá 👋
+<img src =https://horadecodar.com.br/wp-content/uploads/2022/04/programacao_00005.jpg
+
+</br>
+ # 💜Oie devs, meu nome é Jailton! 👋
 
 Sou programador Front-End, atualmente estou aprendendo e criando projetos com:
 
@@ -8,11 +11,11 @@ Sou programador Front-End, atualmente estou aprendendo e criando projetos com:
 <br>
 ### Connect with me:
 
-<p>
+<div>
 <a href="https://www.linkedin.com/in/jailton-vieira/">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-</p>
+  <a href = "[junio.jr555@hotmail.com](mailto:junio.jr555@hotmail.com)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+</div>
 <br />
 
 
